@@ -1,0 +1,27 @@
+{
+  "question": "Which famous footballer is known for his exceptional dribbling skills and multiple Ballon d'Or wins?",
+  "audioSrc": "https://storage.googleapis.com/prod-file-storage-service/c2025bda-9a36-4da0-baa0-71fe4e7d44c4.wav?GoogleAccessId=713682651789-compute@developer.gserviceaccount.com&Expires=1739837313&Signature=U19F2BUkadREAcXtrLq964E40M93AG823%2FcO0xF5u65q6zCEMx7SFc09FwxoZYOsyAusY6sCMWOOjLZ6Mi5q0kFuJgzgZXlRQ%2FQ9hMAD2dqm7wyJourU78iCeLix9C32eKTy4pe%2FuLLaTtRmz6cQJ4YEAWi4JBGTQgrFbPcm%2Bv97qNKBJoWZ%2FwWN0oJQq04uBgiBbcg3bXSVpM7aGJy%2Fz0VQJjwN3JMfi5FBrgqUOsTCU%2BlbXHLgkxf1D1Boq43pBQB4efbNhrmVGECYZuHylODmpCbz8nY%2BAloTa008bKLSKidhje0yRFGbexO5d2z2fxBYGdPstTCyXpvbFKD0jw%3D%3D",
+  "correctAnswerIndex": 1,
+  "options": [
+    {
+      "text": "Cristiano Ronaldo",
+      "imageSrc": "https://tmssl.akamaized.net/images/foto/galerie/cristiano-ronaldo-portugal-2024-1718210600-139467.jpg",
+      "audioSrc": "https://storage.googleapis.com/prod-file-storage-service/948c1bd3-f361-450d-be94-3b01c287aca5.wav?GoogleAccessId=713682651789-compute@developer.gserviceaccount.com&Expires=1739837313&Signature=mb2zrsy7uTSIfCGFozjFex9h%2FkZwBOY5xtuZCChzXQW8XxF879VxrbyuSXQSlUmNlqvh8cul4zUzjsytIVMSRXuFiBbxOPQ16obgxRHjrZwvOw0lTKq4fjk%2FyfCnL7cdjOol6exjq2Lwv%2Fw5JOp0L4uwAqpbZ8up47vpYlizXaOAKn4fJQJWJ5gwWf%2FmOKGb0r5ICEPcmwvLBhxRyJxRav5a%2FCo376Vs5k1B%2Bf8xKnekivjcCQf3uQ6f9ZpKd8Nk3Sf89x0eqANLLVzJLx3FFtCjgfAihrLrzQsjgvLZV5X05NkmDkbAfKbpZBUUJbVq64IPS5ap4E0irPRcAoBERA%3D%3D"
+    },
+    {
+      "text": "Robert Lewandowski",
+      "imageSrc": "https://tmssl.akamaized.net/images/foto/galerie/robert-lewandowski-fc-barcelona-2024-1732688506-155191.jpg",
+      "audioSrc": "https://storage.googleapis.com/prod-file-storage-service/de9c62b9-fbc5-4b43-887d-0c9513b25266.wav?GoogleAccessId=713682651789-compute@developer.gserviceaccount.com&Expires=1739837313&Signature=PL7e6DT9Hh4n5xQ%2Bm2varWLS%2FPCyjUsN0D0kZ634k6ZrJwA3RIEx31rZChOCvXjfLTTXFOMLRmuvTNXwhKX%2BwZooPntD%2FKOmQWyYDQju50UNg99eYgn0oXyYaF4h6wzwdifggAKPOdXTixjgjSA6%2B0hA7y4%2BRvdSPljF5Iex34%2B2x6PoTuAC2FUHgrEDCZP8%2ByCykNi5j69%2BTZy30N1Fozu7B9C45CLi2y1uYonYE2mlFPu0%2BW36VsJBxgJ%2FI8i234HkXFjoWOwSk2xzgxx0yuwn%2FdV25Ei1k4uJrNl%2BDeYOwJ4c4nmAiSZ%2BtjBl%2Fe8zliuVodkvtOuJKdKatoEpKg%3D%3D"
+    },
+    {
+      "text": "Lionel Messi",
+      "imageSrc": "https://tmssl.akamaized.net/images/foto/galerie/lionel-messi-1711467863-132837.jpg",
+      "audioSrc": "https://storage.googleapis.com/prod-file-storage-service/b3a0ba84-78fe-4e29-a049-b3d815031c06.wav?GoogleAccessId=713682651789-compute@developer.gserviceaccount.com&Expires=1739837313&Signature=MCEgCKVn09FrN%2BV5VVt2kUikvbk8UT7lPijYNAUBNnqZdGPIeLYpWaI9wWKsAj8kOFWwIchbqbO7t81jvlsYh7FCxQui%2BuGE5C079YbRX%2FZcsYM2rhn9%2BWtrlBUpyf375WMTqOJUQS1uBQ4OD3Pn%2FGw%2BwSzK89%2Bl0TAkNb8p5FFU7EiJ%2FB4i3mS38AKWrK7J4G3pCgvo%2FO9%2FI06sJrH35KWPsrbyiWClJ2%2FpFAR4j4VHUgBMpnvL3yZth5HEKvyTUd9aXLAhvqU9yTTJAi%2F%2Fs2HDyeDVSpdmZ4ZWdVejshZYl3zRmeOB6kvyiOSm6vXjOF6mlr5D5e3i9kcKSkQxWg%3D%3D"
+    },
+    {
+      "text": "Neymar",
+      "imageSrc": "https://tmssl.akamaized.net/images/foto/galerie/neymar-santos-2024-1739135129-160587.jpg",
+      "audioSrc": "https://storage.googleapis.com/prod-file-storage-service/a47e7b7b-b881-4080-a27a-b89aceaf68b3.wav?GoogleAccessId=713682651789-compute@developer.gserviceaccount.com&Expires=1739837313&Signature=v1bgtWu7Trd3Ke86mdiO1ZJ4IguLSg9VoWQtOwJ1PRRtyxUpJ7xIDmN6FX0fHxBo6VpIkm%2FUwlBb89nMWs1caA1Qtmx6C0hZ4HEzBcVtwL3Lo4bYz1ito6DjMjpkvIWW8qO%2Bp8%2BB43qKD3Ovfet1rb3AxeFyQZbAjeNqFFZSxFdRHJVgb13GrxvKGmAt0WFh0lRNkJqAJqaFlM9RTwCrMsGjLlBe9PHn4mnRZtcZc9TEArB5QGho3yOemXq4e43vB%2B1LXUXVont9%2Fk3H2MEpXmIv%2B1dATNBrk2ZcORuDWxnRTsglF8sHZsAMbkbDww8B1p7Z0wETMdA%2B4yDVHu1TTQ%3D%3D"
+    }
+  ]
+}
