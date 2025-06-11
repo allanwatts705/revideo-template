@@ -333,15 +333,15 @@
     unbzip2-stream "^1.4.3"
     yargs "^17.7.2"
 
-"@revideo/2d@0.10.3":
-  version "0.10.3"
-  resolved "https://registry.yarnpkg.com/@revideo/2d/-/2d-0.10.3.tgz#ce057c9d38e08a94abe2501ffa78e660e50ef2fa"
-  integrity sha512-zcDNzvID3qzBznvDWwJ+KIemjP3gPnqTSM5xtObTMIZ3s0e0PavQ08JZlXk1BIsIXR6o6bKMFbvwIPB7mgC7gw==
+"@revideo/2d@0.10.4":
+  version "0.10.4"
+  resolved "https://registry.yarnpkg.com/@revideo/2d/-/2d-0.10.4.tgz#7abf6a8f0ced881ff67264b5ab299fdf1a0f691b"
+  integrity sha512-Z9/kkwLqHOFv/pQxD06QREB8Z6kpAJdkjEJ4E4nZKk4xJlTyDpChLZKwmMbdNf1iwS1YErdwPMGP23DyvVof6Q==
   dependencies:
     "@codemirror/language" "^6.10.1"
     "@lezer/common" "^1.2.1"
     "@lezer/highlight" "^1.2.0"
-    "@revideo/core" "0.10.3"
+    "@revideo/core" "0.10.4"
     "@rive-app/canvas-advanced" "2.7.3"
     code-fns "^0.8.2"
     hls.js "^1.5.11"
@@ -349,72 +349,72 @@
     mp4box "^0.5.2"
     parse-svg-path "^0.1.2"
 
-"@revideo/cli@0.10.3":
-  version "0.10.3"
-  resolved "https://registry.yarnpkg.com/@revideo/cli/-/cli-0.10.3.tgz#a6a9c882b92892545eaa62ed1e3cde6cbab7f2a7"
-  integrity sha512-s+IvjrE+LtImHfxYcLgmaOHXF0yABPds/SNavGWBVPyOLx6bFSMxqBcDY8IuJ8fb/gr+hY9j/Yw9BpmQA1x6YA==
+"@revideo/cli@0.10.4":
+  version "0.10.4"
+  resolved "https://registry.yarnpkg.com/@revideo/cli/-/cli-0.10.4.tgz#410b695a51bad71d31c427a8e5701f4198596671"
+  integrity sha512-mxH8wUjpFdC7wkeqPl5A5kL6sLWNa+ePE3TkBRuOuSWQHznI4tYQlV4lSECGoudCfa+WPiFJ9W959H3nZA8+dQ==
   dependencies:
-    "@revideo/renderer" "0.10.3"
-    "@revideo/telemetry" "0.10.3"
-    "@revideo/vite-plugin" "0.10.3"
+    "@revideo/renderer" "0.10.4"
+    "@revideo/telemetry" "0.10.4"
+    "@revideo/vite-plugin" "0.10.4"
     chokidar "^3.5.3"
     commander "^12.0.0"
     cors "^2.8.5"
     express "^4.19.2"
     uuid "^9.0.1"
 
-"@revideo/core@0.10.3":
-  version "0.10.3"
-  resolved "https://registry.yarnpkg.com/@revideo/core/-/core-0.10.3.tgz#ac350e2f01cc1760bcd13958ebc0a19539b461ee"
-  integrity sha512-Yc/p0SO7SUR0NMq/+9G5zOAM2P2wSkaeRPUASYEeTGgzGbgm+ZWuFWZao04drWL5yJ8dcU92QmGI8ciVvn4ZuA==
+"@revideo/core@0.10.4":
+  version "0.10.4"
+  resolved "https://registry.yarnpkg.com/@revideo/core/-/core-0.10.4.tgz#58f16fb271b3584aaf2b6761d03ffa21e9560336"
+  integrity sha512-RNAKVcTXLwIFXhjBRnWPoQPU0zg23lI0cvhM+pNIai7jvxPQOE5ePHG9wOjeokPVPVVPoXPNgcfbhnGSPURTGA==
   dependencies:
     chroma-js "2.4.2"
     mp4-wasm "^1.0.6"
 
-"@revideo/ffmpeg@0.10.3":
-  version "0.10.3"
-  resolved "https://registry.yarnpkg.com/@revideo/ffmpeg/-/ffmpeg-0.10.3.tgz#4c8127d19dcb15ad45adaf2955b120353bd3ceac"
-  integrity sha512-Dvb3LSUQim0ztPM9N3dVEks1O0OWgDHoT+7aVrc/oLL7EW/wC6BQs7Athu+VMVw0kaZ3Pt1u3Vdh9/g1OvmmoQ==
+"@revideo/ffmpeg@0.10.4":
+  version "0.10.4"
+  resolved "https://registry.yarnpkg.com/@revideo/ffmpeg/-/ffmpeg-0.10.4.tgz#9f74843aa5e830e0b48cf5e54ca454d05479255e"
+  integrity sha512-IRUdDDp8S6YPhxMUy6050wkBdLwNdzZAeIhh28NlRYd83sFv4zLE7zCink1IXRlB0r5W8sKryLxYeKJVlev8sg==
   dependencies:
     "@ffmpeg-installer/ffmpeg" "^1.1.0"
     "@ffprobe-installer/ffprobe" "^2.0.0"
-    "@revideo/core" "0.10.3"
-    "@revideo/telemetry" "0.10.3"
+    "@revideo/core" "0.10.4"
+    "@revideo/telemetry" "0.10.4"
     fluent-ffmpeg "^2.1.2"
     uuid "^10.0.0"
 
-"@revideo/renderer@0.10.3":
-  version "0.10.3"
-  resolved "https://registry.yarnpkg.com/@revideo/renderer/-/renderer-0.10.3.tgz#a34ffaa982779ed425ce0ea85fbf68e8617d7bd7"
-  integrity sha512-c7HAEWq6+WwzaTDCLjCZBqWzhEYcLXMUKON1VgAaJq+M1ZGQuc/fmRxMhodYaDLGkP7KK7/zRWwqxUU30PAefQ==
+"@revideo/renderer@0.10.4":
+  version "0.10.4"
+  resolved "https://registry.yarnpkg.com/@revideo/renderer/-/renderer-0.10.4.tgz#078dba0a8b1a536fcb6048cb6a721f040fa47246"
+  integrity sha512-hkYBDMFdg7QkCXbDDDIZ7goL93UCz2FWIK+/OGxS6Khi3+ns4M6LFZp6lvHGeDcRmqDoeyMjnijVZh9pVc2UMA==
   dependencies:
-    "@revideo/ffmpeg" "0.10.3"
+    "@revideo/ffmpeg" "0.10.4"
     puppeteer "^23.4.0"
     vite "4.5.2"
 
-"@revideo/telemetry@0.10.3":
-  version "0.10.3"
-  resolved "https://registry.yarnpkg.com/@revideo/telemetry/-/telemetry-0.10.3.tgz#6297012f0ea9ef164c446c569883248e00913c17"
-  integrity sha512-7gyXYSp4tAyl1Uyu9tgEpbLxF8KmN9JyDbiBu1glDCYfjuQEyk+4UBI0wvdP1vTYcmde4jDrEPVxNrwXZ0GLOw==
+"@revideo/telemetry@0.10.4":
+  version "0.10.4"
+  resolved "https://registry.yarnpkg.com/@revideo/telemetry/-/telemetry-0.10.4.tgz#d0b8f61672eb538a826f0a7ba1cbc0c4b4184e47"
+  integrity sha512-zlIsiP1ml2Kbse0pvS8YN6nwsWINL5+vYcnmBkj7wMOBXk17SI+8Qs3ySa448Xunwx0jb+NMp6J/Yjnu7ojTcA==
   dependencies:
     posthog-node "^4.0.0"
     uuid "^9.0.1"
 
-"@revideo/ui@0.10.3":
-  version "0.10.3"
-  resolved "https://registry.yarnpkg.com/@revideo/ui/-/ui-0.10.3.tgz#00a907f080d65a140bcc65758bf14746ef51e023"
-  integrity sha512-+m+RGCHZmi2wVfXN2+E2RTNiqEn7iwp0r46RhZHcWDhQD9HTfbB8clQOjd+d/G4EPLqG1Yp+/YDHuDVLrlJsVg==
+"@revideo/ui@0.10.4":
+  version "0.10.4"
+  resolved "https://registry.yarnpkg.com/@revideo/ui/-/ui-0.10.4.tgz#073d427387e9dd777295cb94de3df8e2a9a6a613"
+  integrity sha512-PRXaEj0gCLvlBWpvzLQBlK7pDs9DQXZrnZWWsmXAx1RP3izKTFNV4ZbucwSqIZRgNC27RTjWUaisYKQgVUa90w==
   dependencies:
     "@preact/signals" "^1.2.1"
-    "@revideo/core" "0.10.3"
+    "@revideo/core" "0.10.4"
     preact "^10.19.2"
 
-"@revideo/vite-plugin@0.10.3":
-  version "0.10.3"
-  resolved "https://registry.yarnpkg.com/@revideo/vite-plugin/-/vite-plugin-0.10.3.tgz#fba1141bd30e3f8dd86a9820ff8a1c0f2a10a443"
-  integrity sha512-a4tvRHqeSjdHLhN+7sr8RfTRaNWNI819+t9KPhyKH0/k3yMUbHQDq1kDVZ4AbW76CBZ3SGir1BT8CIQKZV4Y8A==
+"@revideo/vite-plugin@0.10.4":
+  version "0.10.4"
+  resolved "https://registry.yarnpkg.com/@revideo/vite-plugin/-/vite-plugin-0.10.4.tgz#7cc513b2732203adfa5cccd6793e4109bef184da"
+  integrity sha512-SQX+Kc9TVv2q3ugYAksPvpszBagViSiUGYsnu8zamCw4rYs3K+xCysqYn26Yr17qp/qldL+qvUiWGTqvC6UrIA==
   dependencies:
-    "@revideo/ffmpeg" "0.10.3"
+    "@revideo/ffmpeg" "0.10.4"
     fast-glob "^3.3.1"
     follow-redirects "^1.15.2"
     formidable "^3.5.1"
