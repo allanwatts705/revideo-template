@@ -51,8 +51,7 @@ const scene = makeScene2D("scene", function* (view): ThreadGenerator {
     />
   );
   view.add(
-    <Layout y={100} width={BROWSER_WIDTH} offset={[0, -1]} direction={"row"}>
-      <Rect
+    <Rect scale={1.05} y={100} width={BROWSER_WIDTH} offset={[0, -1]} direction={"row"}>      <Rect
         y={-490}
         radius={[30, 30, 0, 0]}
         offset={[0, -1]}
@@ -190,7 +189,7 @@ const scene = makeScene2D("scene", function* (view): ThreadGenerator {
           // size={[1920 / 1.5, 1080 / 1.5]}
         />
       </Rect>
-    </Layout>
+    </Rect>
   );
 
   // A brief pause at the beginning
