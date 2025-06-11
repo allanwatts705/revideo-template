@@ -88,7 +88,10 @@ async function recordPagePacedScrollAndConvert(options) {
         browser = await puppeteer.launch({
             headless: 'new', // Use 'new' for newer Puppeteer versions
             args: [
-                `--window-size=${viewportWidth},${viewportHeight}`
+                `--window-size=${viewportWidth},${viewportHeight}`,
+                "--no-sandbox",
+                "--disable-setuid-sandbox"
+                
             ]
             // executablePath: '/path/to/your/chrome/or/chromium' // Uncomment if needed
         });
